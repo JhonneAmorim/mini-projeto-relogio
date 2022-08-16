@@ -1,0 +1,21 @@
+*{
+  font-family: "Roboto";
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #282828;
+}
+
+div {
+  color: #fff;
+  font-szie: 144px;
+  font-wight: 300;
+}
