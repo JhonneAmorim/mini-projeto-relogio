@@ -15,7 +15,9 @@ body {
 }
 
 div {
-  color: #fff;
-  font-szie: 144px;
+  color: #eb0505;
+  font-size: 150px;
   font-wight: 300;
+  border: 5px solid #fff;
+  border-radius: 15px;
 }
